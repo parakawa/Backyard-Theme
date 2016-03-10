@@ -1,0 +1,31 @@
+
+
+body {
+    font-family: "Lato", "Serif";
+    font-weight: 300;
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    line-height: 28px;
+    color: #777;
+    background: #fff;
+    overflow-x: hidden;
+    position: relative;
+}
+
+.fullscreen {
+    background-image: url("galletas.jpg");
+    background-attachment: fixed;
+    background-size: 1535.09px 1017px;
+    background-position: 50% -57.6894px;
+}
+
+.site-name img {
+    width: 156px;
+    height: 37px;
+}
+
+.logo img {
+    width: 150px;
+    height: 37px;
+}
