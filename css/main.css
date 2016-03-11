@@ -38,8 +38,9 @@ body {
       color: white;
       margin-left: 5%; }
 
-.logo img {
-  width: 150px;
+.site-name img {
+  margin-top: -9px;
+  width: 156px;
   height: 37px; }
 
 .img-responsive {
